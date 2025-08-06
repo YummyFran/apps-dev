@@ -226,6 +226,14 @@ h3 {
                                 }
                             }
 
+                            &.algosphere {
+                                background-color: #76abae;
+
+                                &:hover {
+                                    background-color: #649598;
+                                }
+                            }
+
                             svg {
                                 height: 1.5rem;
                                 width: 1.5rem;
