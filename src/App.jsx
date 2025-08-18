@@ -16,15 +16,36 @@ function App() {
       name: "Reactivate",
       description: 'Your practical guide to mastering React.js, the powerful JavaScript library trusted by developers worldwide. Whether you’re a beginner exploring React for the first time or an intermediate developer leveling up your skills, this book walks you through building fast, interactive, and maintainable web applications step-by-step.',
       image: '/products/book-2/reactivate.png',
-      slug: 'intro-to-next-js',
+      slug: 'reactivate',
       price: 299.00,
       currency: 'php'
     },{
       name: "Leveling up the web with Node.js",
       description: 'Unlock the full potential of modern web development with Node.js. Leveling Up the Web with Node.js is your practical guide to building fast, scalable, and efficient backend applications that power today’s most dynamic websites. From setting up your environment to deploying production-ready servers, this book walks you through real-world examples, performance tips, and best practices. Whether you’re a beginner stepping into server-side JavaScript or an experienced developer aiming to sharpen your skills, this resource equips you to create web experiences that truly stand out.',
       image: '/products/book-3/node.png',
-      slug: 'intro-to-next-js',
+      slug: 'node-js',
       price: 399.00,
+      currency: 'php'
+    },{
+      name: "Cascade Mastery: Crafting Beautiful, Responsive, and Modern Web Designs with CSS",
+      description: 'Master the art of modern web design with this comprehensive CSS guide. Learn how to build responsive, visually stunning, and user-friendly websites using the latest CSS techniques. From layouts and animations to design best practices, this resource is perfect for beginners and experienced developers aiming to elevate their design skills.',
+      image: '/products/book-4/css.png',
+      slug: 'css',
+      price: 299.00,
+      currency: 'php'
+    },{
+      name: "Mastering HTML: Building the Foundations of the Web",
+      description: 'Lay the groundwork for your web development journey with this essential HTML guide. Designed for beginners and aspiring developers, this book walks you through the fundamentals of structuring web pages, using semantic tags, and creating a solid foundation for responsive and accessible websites. A must-have resource for anyone who wants to start building the web from the ground up.',
+      image: '/products/book-5/html.png',
+      slug: 'html',
+      price: 179.00,
+      currency: 'php'
+    },{
+      name: "JavaScript Essentials: Powering Interactivity on the Web",
+      description: 'Bring your websites to life with the power of JavaScript. This book covers the core concepts of JavaScript—from variables and functions to DOM manipulation and event handling—giving you the tools to create interactive, dynamic, and user-friendly web applications. Perfect for beginners and aspiring developers, it’s your step-by-step guide to mastering the language that powers the modern web.',
+      image: '/products/book-6/js.png',
+      slug: 'js',
+      price: 249.00,
       currency: 'php'
     }
   ]

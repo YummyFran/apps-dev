@@ -48,5 +48,6 @@
         flex-wrap: wrap;
         gap: 1rem;
         margin-inline: 5rem;
+        padding-bottom: 3rem;
     }
 }
